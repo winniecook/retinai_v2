@@ -1,10 +1,6 @@
 # retinai_v2
 Deep learning system for retinal disease classification using EfficientNetV2. Achieves 86% accuracy in distinguishing between normal retinas, cataracts, and glaucoma using a two-stage training approach.
 
-cd /Users/winniecook/retinal_efficientnet
-git initcd /Users/winniecook/retinal_efficientnet
-git init# Advanced Retinal Disease Classification
-
 An advanced deep learning pipeline for retinal disease classification using EfficientNetV2 with Feature Pyramid Network.
 
 ## Features
